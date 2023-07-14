@@ -14,7 +14,7 @@ const config = {
 	scene: {
 		  preload,
 		  create,
-		  update
+		  load
 	  }
   }
 
