@@ -18,7 +18,7 @@ const config = {
 	  }
   }
 
-
+//This is a new function
 
 const gameState = {
 	score: 0
