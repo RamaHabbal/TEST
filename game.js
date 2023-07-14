@@ -15,6 +15,8 @@ const config = {
 		  preload,
 		  create,
 		  update, 
+
+		  test test
 	  }
   }
 
