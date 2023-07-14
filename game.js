@@ -14,7 +14,12 @@ const config = {
 	scene: {
 		  preload,
 		  create,
-		  update
+		  sas13
+		  s
+		  s
+		  s
+		  ss
+
 	  }
   }
 
